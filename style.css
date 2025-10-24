@@ -114,8 +114,8 @@ span{
 
 .home-img img{
     position: relative;
-    width: 40vw;
-    max-width: 300px
+    width: 30vw;
+    max-width: 200px
     border-radius: 50%;
     box-shadow: 0 0 100px var(--main-color);
     cursor: pointer;
@@ -611,4 +611,5 @@ span{
         left: 0;
     }
 }
+
 
