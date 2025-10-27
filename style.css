@@ -320,22 +320,7 @@ span{
     width: 30%;
     background-color: yellow;
 }
-
-.bar .progress-line.css span{
-    width: 30%;
-    background-color: blue;
-}
-
-.bar .progress-line.html span{
-    width: 30%;
-    background-color: orangered;
-}
-
-.bar .progress-line.mysql span{
-    width: 30%;
-    background-color: grey;
-}
-
+
 .bar .progress-line.helpdesk span{
     width: 40%;
     background-color: wheat;
@@ -350,7 +335,24 @@ span{
     width: 85%;
     background-color: darkgoldenrod;
 }
+.bar .progress-line.javascript span{
+    width: 30%;
+    background-color: yellow;
+}
 
+.bar .progress-line.css span{
+    width: 30%;
+    background-color: blue;
+}
+
+.bar .progress-line.html span{
+    width: 30%;
+    background-color: orangered;
+}
+
+.bar .progress-line.mysql span{
+    width: 30%;
+    background-color: grey;
 .timeline-section{
     min-height: 100vh;
     padding: 100px 15px;
